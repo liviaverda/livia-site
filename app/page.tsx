@@ -113,7 +113,7 @@ export default function LiviaTresederWebsite() {
                 <div className="flex h-full items-center justify-center p-10 text-center text-stone-500">
                   <div>
                     <p className="text-sm uppercase tracking-[0.28em]"><img
-  src="/livia-treseder.jpg"
+  src="/livia-treseder.JPG"
   alt="Livia Treseder"
   className="h-full w-full rounded-[2rem] object-cover"
 /></p>
